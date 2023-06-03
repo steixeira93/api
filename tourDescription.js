@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get("/", (req, res) => {
   res.send(
-    `API de passeios turísticos \nLegenda:\nid: 1 - Gastronomia\nid: 2 - Aventura\nid: 3 - Praia e Sol`
+    `API de passeios turísticos \nLegenda:\nid: 1 - Gastronomia\nid: 2 - Aventura\nid: 3 - Praia e Sol\nExemplo de endpoint: /categories/{categoryId}/tours `
   );
 });
 
