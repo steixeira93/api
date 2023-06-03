@@ -55,7 +55,7 @@ const tours = [
     categoryId: 2,
     title: "Pedra da Gávea",
     description:
-      "Pedra da Gávea é uma montanha monolítica na Floresta da Tijuca, no Rio de Janeiro, Brasil. Composta por granito e gneisse, a sua altitude é de 842 metros, tornando-se uma das montanhas mais altas do mundo junto de margens oceânicas.[1] As trilhas na montanha foram abertas pela população agrícola local nos anos 1800; hoje, o local está sob a administração do Parque Nacional da Tijuca.",
+      "Pedra da Gávea é uma montanha monolítica na Floresta da Tijuca, no Rio de Janeiro, Brasil. Composta por granito e gneisse, a sua altitude é de 842 metros, tornando-se uma das montanhas mais altas do mundo junto de margens oceânicas. As trilhas na montanha foram abertas pela população agrícola local nos anos 1800; hoje, o local está sob a administração do Parque Nacional da Tijuca.",
   },
   {
     id: "7",
